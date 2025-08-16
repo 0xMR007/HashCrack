@@ -9,7 +9,7 @@ HashCrack is a simple and efficient command-line tool for cracking password hash
 > A **future update** will switch to a universal `EVP`-based approach to automatically support **all** OpenSSL algorithms (including SM3, BLAKE2, SHA3, etc.) without adding new code for each.
 
 <div align="center">
-  <img src="assets/Preview.gif" width="80%" alt="Preview">
+  <img src="assets/Preview.gif" alt="Preview">
 </div>
 
 ## Table of Contents

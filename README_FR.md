@@ -9,7 +9,7 @@ HashCrack est un outil en ligne de commande simple et efficace pour casser des m
 > Une **prochaine mise à jour** passera à un système universel basé sur `EVP`, ce qui permettra de supporter **tous** les algorithmes OpenSSL (y compris SM3, BLAKE2, SHA3, etc.) sans avoir à ajouter du code spécifique à chaque nouveau hash.
 
 <div align="center">
-  <img src="assets/Preview.gif" width="80%" alt="Preview">
+  <img src="assets/Preview.gif" alt="Preview">
 </div>
 
 ## Table des matières
