@@ -1,0 +1,5 @@
+.vscode/
+data/
+hashcrack
+main
+*.o
