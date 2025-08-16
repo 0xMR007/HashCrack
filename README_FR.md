@@ -8,6 +8,10 @@ HashCrack est un outil en ligne de commande simple et efficace pour casser des m
 > Ceci est la **première version** utilisant des fonctions spécifiques par algorithme (ex. `MD5()`, `SHA256()`), nécessitant l'inclusion du fichier d'en-tête correspondant.  
 > Une **prochaine mise à jour** passera à un système universel basé sur `EVP`, ce qui permettra de supporter **tous** les algorithmes OpenSSL (y compris SM3, BLAKE2, SHA3, etc.) sans avoir à ajouter du code spécifique à chaque nouveau hash.
 
+<div align="center">
+  <img src="assets/Preview.gif" width="80%" alt="Preview">
+</div>
+
 ## Table des matières
 - 🚀 [Fonctionnalités](#fonctionnalités)
 - 🛠️ [Installation](#installation)

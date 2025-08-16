@@ -8,6 +8,10 @@ HashCrack is a simple and efficient command-line tool for cracking password hash
 > This is the **first version** using per-algorithm functions (e.g., `MD5()`, `SHA256()`), which require including each algorithm's header file separately.
 > A **future update** will switch to a universal `EVP`-based approach to automatically support **all** OpenSSL algorithms (including SM3, BLAKE2, SHA3, etc.) without adding new code for each.
 
+<div align="center">
+  <img src="assets/Preview.gif" width="80%" alt="Preview">
+</div>
+
 ## Table of Contents
 
 - 🚀 [Features](#features)
